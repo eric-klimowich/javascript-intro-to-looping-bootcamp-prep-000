@@ -11,3 +11,7 @@ function whileLoop(num) {
   }
   return 'done';
 }
+
+function doWhileLoop(array) {
+  i = i + 1;
+}
