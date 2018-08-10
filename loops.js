@@ -15,3 +15,6 @@ function whileLoop(num) {
 function doWhileLoop(array) {
   i = i + 1;
 }
+do {
+  
+}
